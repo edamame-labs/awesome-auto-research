@@ -26,7 +26,7 @@ A curated list of tools, papers, and resources on automated AI research — wher
 ## Community Projects
 
 - [overnight-experimenter](https://x.com/DylanFeltus/status/2031123367873425741) — General-purpose version of autoresearch for any codebase + any metric (landing pages, SEO, prompt engineering, etc.). `pip install overnight-experimenter` (early/open-sourcing).
-- [Autonomous YouTube Shorts pipeline](https://x.com/_sarthak4/status/2031202114337374386) — Agent loop: generate topic/script/images/TTS → render → upload → scrape view counts → feed winners back. Runs 3x/day on free AWS.
+- [Autonomous YouTube Shorts pipeline](https://x.com/_sarthak4/status/2031127861470634420) — Agent loop: generate topic/script/images/TTS → render → upload → scrape view counts → feed winners back. Runs 3x/day on free AWS.
 - [Cosmetics AutoResearch pipeline](https://x.com/passeth_me/status/2031044992719011922) — Multi-agent R&D: Claude Opus generates hypotheses → delegates to sub-agents (Grok, Kimi, InfraNodus) → outputs experiment files.
 
 ## Papers
